@@ -1,0 +1,3 @@
+(vulpea-ui
+ :repo "d12frosted/vulpea-ui"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(auto-browser
+ :repo "ginqi7/auto-browser"
+ :fetcher github)

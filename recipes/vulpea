@@ -1,0 +1,3 @@
+(vulpea
+ :repo "d12frosted/vulpea"
+ :fetcher github)

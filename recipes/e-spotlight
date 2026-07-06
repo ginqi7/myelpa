@@ -1,0 +1,3 @@
+(e-spotlight
+ :repo "ginqi7/e-spotlight"
+ :fetcher github)

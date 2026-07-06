@@ -1,0 +1,3 @@
+(meow-tree-sitter
+ :repo "skissue/meow-tree-sitter"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(phscroll
+ :repo "misohena/phscroll"
+ :fetcher github)

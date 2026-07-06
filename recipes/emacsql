@@ -1,0 +1,3 @@
+(emacsql
+ :repo "magit/emacsql"
+ :fetcher github)

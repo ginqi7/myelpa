@@ -1,0 +1,3 @@
+(puni
+ :repo "AmaiKinono/puni"
+ :fetcher github)

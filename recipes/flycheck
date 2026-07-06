@@ -1,0 +1,3 @@
+(flycheck
+ :repo "flycheck/flycheck"
+ :fetcher github)

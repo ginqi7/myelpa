@@ -1,0 +1,3 @@
+(hl-todo
+ :repo "tarsius/hl-todo"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(highlight-parentheses
+ :repo "emacsmirror/highlight-parentheses"
+ :fetcher github)

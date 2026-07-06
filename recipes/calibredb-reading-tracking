@@ -1,0 +1,3 @@
+(calibredb-reading-tracking
+ :repo "ginqi7/calibredb-reading-tracking.el"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(dired-copy-paste
+ :repo "jsilve24/dired-copy-paste"
+ :fetcher github)

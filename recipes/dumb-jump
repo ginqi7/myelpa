@@ -1,0 +1,3 @@
+(dumb-jump
+ :repo "jacktasia/dumb-jump"
+ :fetcher github)

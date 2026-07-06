@@ -1,0 +1,3 @@
+(read-aloud
+ :repo "ginqi7/read-aloud.el"
+ :fetcher github)

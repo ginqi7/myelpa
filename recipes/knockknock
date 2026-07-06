@@ -1,0 +1,3 @@
+(knockknock
+ :repo "konrad1977/knockknock"
+ :fetcher github)

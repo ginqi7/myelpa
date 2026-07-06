@@ -1,0 +1,3 @@
+(nov
+ :repo "emacs-pe/nov.el"
+ :fetcher github)

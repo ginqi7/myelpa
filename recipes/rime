@@ -1,0 +1,3 @@
+(rime
+ :repo "DogLooksGood/emacs-rime"
+ :fetcher github)

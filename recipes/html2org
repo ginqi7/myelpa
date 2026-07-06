@@ -1,0 +1,3 @@
+(html2org
+ :repo "ginqi7/html2org"
+ :fetcher github)

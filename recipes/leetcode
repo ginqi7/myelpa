@@ -1,0 +1,3 @@
+(leetcode
+ :repo "ginqi7/leetcode-emacs"
+ :fetcher github)

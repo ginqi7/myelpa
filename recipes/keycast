@@ -1,0 +1,3 @@
+(keycast
+ :repo "tarsius/keycast"
+ :fetcher github)

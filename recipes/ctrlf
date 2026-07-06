@@ -1,0 +1,3 @@
+(ctrlf
+ :repo "radian-software/ctrlf"
+ :fetcher github)

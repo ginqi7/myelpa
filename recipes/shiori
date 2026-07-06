@@ -1,0 +1,3 @@
+(shiori
+ :repo "ginqi7/shiori.el"
+ :fetcher github)

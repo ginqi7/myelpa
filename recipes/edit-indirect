@@ -1,0 +1,3 @@
+(edit-indirect
+ :repo "Fanael/edit-indirect"
+ :fetcher github)

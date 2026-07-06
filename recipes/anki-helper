@@ -1,0 +1,3 @@
+(anki-helper
+ :repo "Elilif/emacs-anki-helper"
+ :fetcher github)

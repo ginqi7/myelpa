@@ -1,0 +1,3 @@
+(org-remark
+ :repo "nobiot/org-remark"
+ :fetcher github)

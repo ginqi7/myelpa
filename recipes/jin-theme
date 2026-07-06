@@ -1,0 +1,3 @@
+(jin-theme
+ :repo "ginqi7/jin-theme"
+ :fetcher github)

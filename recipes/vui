@@ -1,0 +1,3 @@
+(vui
+ :repo "d12frosted/vui.el"
+ :fetcher github)

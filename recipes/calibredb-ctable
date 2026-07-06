@@ -1,0 +1,3 @@
+(calibredb-ctable
+ :repo "ginqi7/calibredb-ctable"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(loop
+ :repo "Wilfred/loop.el"
+ :fetcher github)

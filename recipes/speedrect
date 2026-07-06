@@ -1,0 +1,3 @@
+(speedrect
+ :repo "jdtsmith/speedrect"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(fuzzy-search
+ :repo "ginqi7/fuzzy-search.el"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(rimel
+ :repo "jixiuf/rimel"
+ :fetcher github)

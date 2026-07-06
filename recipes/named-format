@@ -1,0 +1,3 @@
+(named-format
+ :repo "ginqi7/named-format"
+ :fetcher github)

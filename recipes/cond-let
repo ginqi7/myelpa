@@ -1,0 +1,3 @@
+(cond-let
+ :repo "tarsius/cond-let"
+ :fetcher github)

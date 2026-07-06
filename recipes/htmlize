@@ -1,0 +1,3 @@
+(htmlize
+ :repo "hniksic/emacs-htmlize"
+ :fetcher github)

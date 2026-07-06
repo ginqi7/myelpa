@@ -1,0 +1,3 @@
+(plantuml-mode
+ :repo "skuro/plantuml-mode"
+ :fetcher github)

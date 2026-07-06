@@ -1,0 +1,3 @@
+(easysession
+ :repo "jamescherti/easysession.el"
+ :fetcher github)

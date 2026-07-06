@@ -1,0 +1,3 @@
+(citre
+ :repo "universal-ctags/citre"
+ :fetcher github)

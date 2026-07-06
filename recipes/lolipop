@@ -1,0 +1,3 @@
+(lolipop
+ :repo "RadioNoiseE/lolipop"
+ :fetcher github)

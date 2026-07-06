@@ -1,0 +1,3 @@
+(blueutil
+ :repo "ginqi7/blueutil.el"
+ :fetcher github)

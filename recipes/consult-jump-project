@@ -1,0 +1,3 @@
+(consult-jump-project
+ :repo "jdtsmith/consult-jump-project"
+ :fetcher github)

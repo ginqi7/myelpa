@@ -1,0 +1,3 @@
+(separedit
+ :repo "twlz0ne/separedit.el"
+ :fetcher github)

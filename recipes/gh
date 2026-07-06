@@ -1,0 +1,3 @@
+(gh
+ :repo "ginqi7/gh-emacs"
+ :fetcher github)

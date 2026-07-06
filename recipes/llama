@@ -1,0 +1,3 @@
+(llama
+ :repo "tarsius/llama"
+ :fetcher github)

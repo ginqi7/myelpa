@@ -1,0 +1,3 @@
+(atomic-chrome
+ :repo "KarimAziev/atomic-chrome"
+ :fetcher github)

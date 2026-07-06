@@ -1,0 +1,3 @@
+(symbol-overlay
+ :repo "roife/symbol-overlay"
+ :fetcher github)

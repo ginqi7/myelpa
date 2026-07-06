@@ -1,0 +1,3 @@
+(xeft
+ :repo "casouri/xeft"
+ :fetcher github)

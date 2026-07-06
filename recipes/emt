@@ -1,0 +1,3 @@
+(emt
+ :repo "LuciusChen/emt"
+ :fetcher github)

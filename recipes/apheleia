@@ -1,0 +1,3 @@
+(apheleia
+ :repo "radian-software/apheleia"
+ :fetcher github)

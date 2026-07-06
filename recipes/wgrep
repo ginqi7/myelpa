@@ -1,0 +1,3 @@
+(wgrep
+ :repo "mhayashi1120/Emacs-wgrep"
+ :fetcher github)

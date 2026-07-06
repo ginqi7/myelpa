@@ -1,0 +1,3 @@
+(vundo
+ :repo "casouri/vundo"
+ :fetcher github)

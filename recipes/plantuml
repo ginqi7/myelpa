@@ -1,0 +1,3 @@
+(plantuml
+ :repo "ginqi7/plantuml-emacs"
+ :fetcher github)

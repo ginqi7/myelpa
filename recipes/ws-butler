@@ -1,0 +1,3 @@
+(ws-butler
+ :repo "lewang/ws-butler"
+ :fetcher github)

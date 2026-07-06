@@ -1,0 +1,3 @@
+(elfeed-ctable
+ :repo "ginqi7/elfeed-ctable"
+ :fetcher github)

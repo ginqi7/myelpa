@@ -1,0 +1,3 @@
+(swift-ts-mode
+ :repo "ginqi7/swift-ts-mode"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(magit
+ :repo "magit/magit"
+ :fetcher github)

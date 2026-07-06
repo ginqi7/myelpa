@@ -1,0 +1,3 @@
+(nix-ts-mode
+ :repo "nix-community/nix-ts-mode"
+ :fetcher github)

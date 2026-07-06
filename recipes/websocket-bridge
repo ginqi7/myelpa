@@ -1,0 +1,3 @@
+(websocket-bridge
+ :repo "ginqi7/websocket-bridge"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(fish-mode
+ :repo "emacsmirror/fish-mode"
+ :fetcher github)

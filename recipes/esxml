@@ -1,0 +1,3 @@
+(esxml
+ :repo "tali713/esxml"
+ :fetcher github)

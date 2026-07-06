@@ -1,0 +1,3 @@
+(corg
+ :repo "isamert/corg.el"
+ :fetcher github)

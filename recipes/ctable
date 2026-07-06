@@ -1,0 +1,3 @@
+(ctable
+ :repo "ginqi7/emacs-ctable"
+ :fetcher github)

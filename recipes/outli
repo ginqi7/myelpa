@@ -1,0 +1,3 @@
+(outli
+ :repo "jdtsmith/outli"
+ :fetcher github)

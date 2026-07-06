@@ -1,0 +1,3 @@
+(posframe
+ :repo "tumashu/posframe"
+ :fetcher github)

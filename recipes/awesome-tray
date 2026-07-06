@@ -1,0 +1,3 @@
+(awesome-tray
+ :repo "manateelazycat/awesome-tray"
+ :fetcher github)

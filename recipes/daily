@@ -1,0 +1,3 @@
+(daily
+ :repo "ginqi7/daily.el"
+ :fetcher github)

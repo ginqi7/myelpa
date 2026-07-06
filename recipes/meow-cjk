@@ -1,0 +1,3 @@
+(meow-cjk
+ :repo "LuciusChen/meow-cjk"
+ :fetcher github)

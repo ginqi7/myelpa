@@ -1,0 +1,4 @@
+(org
+ :repo "bzg/org-mode"
+ :fetcher github
+ :files ("lisp/*.el"))

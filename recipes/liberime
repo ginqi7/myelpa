@@ -1,0 +1,3 @@
+(liberime
+ :repo "merrickluo/liberime"
+ :fetcher github)

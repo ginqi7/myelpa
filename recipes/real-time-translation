@@ -1,0 +1,3 @@
+(real-time-translation
+ :repo "ginqi7/real-time-translation"
+ :fetcher github)

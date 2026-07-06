@@ -1,0 +1,3 @@
+(color-rg
+ :repo "manateelazycat/color-rg"
+ :fetcher github)

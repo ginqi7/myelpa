@@ -1,0 +1,3 @@
+(ekp
+ :repo "Kinneyzhang/emacs-kp"
+ :fetcher github)

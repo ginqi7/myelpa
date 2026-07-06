@@ -1,0 +1,3 @@
+(elisp-demos
+ :repo "xuchunyang/elisp-demos"
+ :fetcher github)

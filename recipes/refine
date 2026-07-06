@@ -1,0 +1,3 @@
+(refine
+ :repo "Wilfred/refine"
+ :fetcher github)

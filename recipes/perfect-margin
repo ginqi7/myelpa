@@ -1,0 +1,3 @@
+(perfect-margin
+ :repo "mpwang/perfect-margin"
+ :fetcher github)

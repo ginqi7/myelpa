@@ -1,0 +1,3 @@
+(hotfuzz
+ :repo "axelf4/hotfuzz"
+ :fetcher github)

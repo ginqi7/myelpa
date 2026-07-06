@@ -1,0 +1,3 @@
+(majutsu
+ :repo "0WD0/majutsu"
+ :fetcher github)

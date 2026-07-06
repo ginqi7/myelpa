@@ -1,0 +1,3 @@
+(syllable-stress
+ :repo "ginqi7/syllable-stress.el"
+ :fetcher github)

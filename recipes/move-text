@@ -1,0 +1,3 @@
+(move-text
+ :repo "emacsfodder/move-text"
+ :fetcher github)

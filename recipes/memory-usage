@@ -1,0 +1,3 @@
+(memory-usage
+ :repo "emacsmirror/memory-usage"
+ :fetcher github)

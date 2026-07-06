@@ -1,0 +1,3 @@
+(dictionary-overlay
+ :repo "ginqi7/dictionary-overlay"
+ :fetcher github)

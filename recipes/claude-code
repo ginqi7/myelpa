@@ -1,0 +1,3 @@
+(claude-code
+ :repo "stevemolitor/claude-code.el"
+ :fetcher github)

@@ -1,0 +1,3 @@
+(highlight-defined
+ :repo "Fanael/highlight-defined"
+ :fetcher github)

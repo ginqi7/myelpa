@@ -1,0 +1,3 @@
+(du
+ :repo "ginqi7/du.el"
+ :fetcher github)

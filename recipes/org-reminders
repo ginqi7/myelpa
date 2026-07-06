@@ -1,0 +1,3 @@
+(org-reminders
+ :repo "ginqi7/org-reminders"
+ :fetcher github)

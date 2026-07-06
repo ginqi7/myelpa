@@ -1,0 +1,3 @@
+(languagetool
+ :repo "ginqi7/languagetool"
+ :fetcher github)

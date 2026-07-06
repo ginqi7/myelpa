@@ -1,0 +1,3 @@
+(ace-window
+ :repo "abo-abo/ace-window"
+ :fetcher github)
