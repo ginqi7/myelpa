@@ -1,0 +1,3 @@
+(setup
+ :repo "pkal/setup.el"
+ :fetcher codeberg)
