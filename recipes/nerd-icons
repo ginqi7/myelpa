@@ -1,3 +1,4 @@
 (nerd-icons
  :repo "rainstormstudio/nerd-icons.el"
- :fetcher github)
+ :fetcher github
+ :files (:defaults "data"))
