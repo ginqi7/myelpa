@@ -1,3 +1,4 @@
 (lsp-bridge
  :repo "manateelazycat/lsp-bridge"
- :fetcher github)
+ :fetcher github
+ :files ("*.el" "*.py" "acm" "core" "langserver" "multiserver" "resources"))
