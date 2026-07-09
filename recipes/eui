@@ -1,3 +1,4 @@
 (eui
  :repo "ginqi7/eui.el"
- :fetcher github)
+ :fetcher github
+ :files (:defaults "plugins/*"))
