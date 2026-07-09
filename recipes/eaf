@@ -1,4 +1,4 @@
 (eaf
  :repo "ginqi7/emacs-application-framework"
  :fetcher github
- :files (:defaults "*.el" "*.py" "*.json" "core" "extension"))
+ :files (:defaults "*.py" "*.json" "core" "extension"))
