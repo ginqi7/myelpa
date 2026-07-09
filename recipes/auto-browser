@@ -1,4 +1,4 @@
 (auto-browser
  :repo "ginqi7/auto-browser"
  :fetcher github
- :files (:defaults "*.py" "plugins/*.el"))
+ :files (:defaults "*.py" "plugins/*.el" "utils"))
