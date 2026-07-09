@@ -1,3 +1,4 @@
 (eaf-pdf-viewer
  :repo "ginqi7/eaf-pdf-viewer"
- :fetcher github)
+ :fetcher github
+ :files (:defaults "*.py"))

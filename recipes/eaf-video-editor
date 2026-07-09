@@ -1,3 +1,4 @@
 (eaf-video-editor
  :repo "ginqi7/eaf-video-editor"
- :fetcher github)
+ :fetcher github
+ :files (:defaults "*.py"))
