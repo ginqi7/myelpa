@@ -1,3 +1,4 @@
 (ekp
  :repo "Kinneyzhang/emacs-kp"
- :fetcher github)
+ :fetcher github
+ :files (:defaults "ekp_c" "dictionaries"))
