@@ -1,3 +1,0 @@
-(straight
- :repo "radian-software/straight.el"
- :fetcher github)

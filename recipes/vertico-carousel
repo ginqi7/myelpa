@@ -1,0 +1,3 @@
+(vertico-carousel
+ :repo "kn66/vertico-carousel"
+ :fetcher github)
